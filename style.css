@@ -28,14 +28,14 @@
 .displayb {
     display: block;
     word-wrap: break-word;
-    width: 90%;
+    width: 80%;
     text-align: right;
     padding-right: 25px;
     font-size: xx-large;
 }
 .displayt {
     display: block;
-    width: 90%;
+    width: 80%;
     text-align: right;
     padding-right: 25px;
     word-wrap: break-word;
